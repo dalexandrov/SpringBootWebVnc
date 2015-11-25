@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: WebVNC
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: ru.dalexandrov
+Build-Jdk: 1.8.0
+Built-By: mitia
+Created-By: IntelliJ IDEA
+Main-Class: ${start-class}
+
